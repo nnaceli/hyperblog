@@ -9,11 +9,8 @@ a los contenidos vistos en un curso de la plataforma digital Platzi
 - Flujo de trabajo en GitHub
 - Buenas prácticas
 - Creado por platzi team
-<<<<<<< HEAD
-=======
 - Incluye ejemplos en distintos SO
 - Disponible para todas las edades
->>>>>>> readme-mejorado
 
 ## Tecnologías y herramientas utilizadas
 - HTML
