@@ -8,6 +8,7 @@ a los contenidos vistos en un curso de la plataforma digital Platzi
 - Comandos más usados en Git
 - Flujo de trabajo en GitHub
 - Buenas prácticas
+- Creado por platzi team
 
 ## Tecnologías y herramientas utilizadas
 - HTML
