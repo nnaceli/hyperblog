@@ -10,6 +10,7 @@ a los contenidos vistos en un curso de la plataforma digital Platzi
 - Buenas prácticas
 - Creado por platzi team
 - Incluye ejemplos en distintos SO
+- Disponible para todas las edades
 
 ## Tecnologías y herramientas utilizadas
 - HTML
